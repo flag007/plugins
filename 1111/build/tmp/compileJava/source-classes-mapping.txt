@@ -1,0 +1,4 @@
+com/google/tsunami/plugins/detectors/cves/cve202122986/CVE202122986VulnDetector.java
+ com.google.tsunami.plugins.detectors.cves.cve202122986.CVE202122986VulnDetector
+com/google/tsunami/plugins/detectors/cves/cve202122986/CVE202122986DetectorBootstrapModule.java
+ com.google.tsunami.plugins.detectors.cves.cve202122986.CVE202122986DetectorBootstrapModule
