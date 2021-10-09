@@ -1,0 +1,4 @@
+com/google/tsunami/plugins/detectors/cves/cve20203452/CVE20203452DetectorBootstrapModule.java
+ com.google.tsunami.plugins.detectors.cves.cve20203452.CVE20203452DetectorBootstrapModule
+com/google/tsunami/plugins/detectors/cves/cve20203452/CVE20203452VulnDetector.java
+ com.google.tsunami.plugins.detectors.cves.cve20203452.CVE20203452VulnDetector

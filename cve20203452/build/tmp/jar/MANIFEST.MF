@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: CVE_2020_3452
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: root
+Built-JDK: 13.0.7
+Source-Compatibility: 1.8
+Target-Compatibility: 1.8
+
